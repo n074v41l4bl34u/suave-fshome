@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "suave-fshome", "suave-fshome.fsproj", "{B91B14BF-A074-4B04-BC69-83BD5059C1F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{B7A008BF-5B21-4B2A-A932-71FB1D9B20B8}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+		paket.lock = paket.lock
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91B14BF-A074-4B04-BC69-83BD5059C1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91B14BF-A074-4B04-BC69-83BD5059C1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91B14BF-A074-4B04-BC69-83BD5059C1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91B14BF-A074-4B04-BC69-83BD5059C1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
