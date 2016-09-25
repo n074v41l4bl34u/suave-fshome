@@ -1,4 +1,4 @@
-# Suave.io on Azure and Heroku
+# Suave.io on Heroku
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
